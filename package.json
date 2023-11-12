@@ -1,0 +1,13 @@
+{
+  "name": "hello-english",
+  "version": "0.0.1",
+  "description": "A repository for recording English knowledge",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-rc.25"
+  }
+}
