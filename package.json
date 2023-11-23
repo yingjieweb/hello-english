@@ -7,6 +7,12 @@
     "docs:build": "vitepress build docs",
     "docs:serve": "vitepress serve docs"
   },
+  "keywords": [
+    "English"
+  ],
+  "repository": "https://github.com/yingjieweb/hello-english",
+  "author": "yingjieweb <yingjieweb@qq.com>",
+  "license": "MIT",
   "devDependencies": {
     "vitepress": "^1.0.0-rc.25"
   }
