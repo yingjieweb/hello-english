@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: Start
-      link: ./grammer/
+      link: ./introduction/
     - theme: alt
       text: GitHub
       link: https://github.com/yingjieweb/hello-english

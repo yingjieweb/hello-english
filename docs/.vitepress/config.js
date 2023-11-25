@@ -19,6 +19,10 @@ module.exports = {
     ],
     sidebar: [
       {
+        text: "Introduction",
+        link: "/introduction/",
+      },
+      {
         text: "Grammer",
         items: [{ text: "Grammer", link: "/grammer/" }],
       },
