@@ -24,4 +24,4 @@ You use "are" and I use "am", "is" for the "he" or "she" or "it".
 
 The number of counts is "one" use "is", "two and more" use "are".
 
-> 单数用 “is”，复数用 “are”。
+> 主语是单数用 “is”，主语是复数用 “are”。
