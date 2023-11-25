@@ -4,9 +4,9 @@ layout: home
 hero:
   name: Hello English Docs
   text: Just a simple English learning website.
-  tagline: No pain no gain!
+  tagline: No pain no gain! Let's make it! 🚀
   image:
-    src: ./images/logo.png
+    src: /images/logo.png
     alt: Cobweb Docs Vitepress
   actions:
     - theme: brand
@@ -17,24 +17,18 @@ hero:
       link: https://github.com/yingjieweb/hello-english
 
 features:
-  - icon: ⚡️
-    title: Grammer
-    details: Grammer, Grammer, Grammer
-  - icon: 🖖
-    title: Speaking
-    details: Speaking, Speaking, Speaking
-  - icon: 🛠️
+  - icon: 👂
     title: Listening
     details: Listening, Listening, Listening
-  - icon: 🔧
+  - icon: 📖
+    title: Grammer
+    details: Grammer, Grammer, Grammer
+  - icon: 💬
+    title: Speaking
+    details: Speaking, Speaking, Speaking
+  - icon: 🧱
     title: Email
     details: Email, Email, Email
-  - icon: 🧱
-    title: Resume
-    details: Resume, Resume, Resume
-  - icon: 📦
-    title: Others
-    details: Others, Others, Others
 ---
 
 <style>
