@@ -1,6 +1,7 @@
-import juejin from "../images/juejin.txt";
+import juejin from "../public/images/juejin.txt";
 
 module.exports = {
+  lang: "en-US",
   title: "Hello English",
   description: "A repository for recording English knowledge.",
   head: [["link", { rel: "icon", href: "/images/favicon.ico" }]],
@@ -22,5 +23,11 @@ module.exports = {
         items: [{ text: "Grammer", link: "/grammer/" }],
       },
     ],
+    footer: {
+      message: `Made with ❤️ by 
+                <a href="https://github.com/yingjieweb" target="_black" style="color: #315efb;">yingjieweb</a>`,
+      copyright: `Copyright © 2023 
+                  <a href="https://github.com/yingjieweb" target="_black" style="color: #315efb;">yingjieweb</a>`,
+    },
   },
 };
