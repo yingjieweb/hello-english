@@ -28,6 +28,7 @@ module.exports = {
         items: [
           { text: "SVP(主系表)", link: "/grammar/svp" },
           { text: "SVO(主谓宾)", link: "/grammar/svo" },
+          { text: "There be", link: "/grammar/thereBe" },
         ],
       },
     ],
