@@ -24,7 +24,8 @@ module.exports = {
       },
       {
         text: "Grammer",
-        items: [{ text: "Grammer", link: "/grammer/" }],
+        collapsed: false,
+        items: [{ text: "SVP(主系表)", link: "/grammar/svp" }],
       },
     ],
     footer: {

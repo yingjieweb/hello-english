@@ -21,12 +21,12 @@ features:
     title: Listening
     details: Listening, Listening, Listening
   - icon: 📖
-    title: Grammer
-    details: Grammer, Grammer, Grammer
+    title: Grammar
+    details: Grammar, Grammar, Grammar
   - icon: 💬
     title: Speaking
     details: Speaking, Speaking, Speaking
-  - icon: 🧱
+  - icon: 📧
     title: Email
     details: Email, Email, Email
 ---
