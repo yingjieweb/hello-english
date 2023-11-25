@@ -25,7 +25,10 @@ module.exports = {
       {
         text: "Grammer",
         collapsed: false,
-        items: [{ text: "SVP(主系表)", link: "/grammar/svp" }],
+        items: [
+          { text: "SVP(主系表)", link: "/grammar/svp" },
+          { text: "SVO(主谓宾)", link: "/grammar/svo" },
+        ],
       },
     ],
     footer: {
