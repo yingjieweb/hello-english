@@ -8,17 +8,17 @@ SVP(主系表): Subject + Verb + Predicative
 >
 > 🌰 I am a student. 「我是一个学生」
 
-> Subject + (很) + Adjective
+> 🎈 Subject + (很) + Adjective
 >
 > 🌰 You are beautiful. 「你很漂亮」
 
-> Subject + (在) + Locality
+> 🎈 Subject + (在) + Locality
 >
 > 🌰 I am home. 「我在家里」
 
 ### 🚩 Conclusion
 
-You use "are" and I use "am", "is" for the "he" or "she" or "it".
+You use "are" and I use "am", and "is" for the "he" "she" or "it".
 
 > 我用 “am” 你用 “are”，“is” 留给 “他”、“她”、“它”。
 

@@ -1,10 +1,10 @@
 # There be
 
-There be: There + be + Noun.
+There be: There + be + Noun
 
 ### 🚩 Structure & Example
 
-> 🎈 Subject + (is/are) + Noun.
+> 🎈 There + (is/are) + Noun
 >
 > 🌰 There is a dog.
 >
