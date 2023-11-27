@@ -30,6 +30,7 @@ module.exports = {
           { text: "SVO(主谓宾)", link: "/grammar/svo" },
           { text: "There be", link: "/grammar/thereBe" },
           { text: "Modal Verbs(情态动词)", link: "/grammar/modalVerbs" },
+          { text: "Spoken Verbs(口语动词)", link: "/grammar/spokenVerbs" },
         ],
       },
     ],
