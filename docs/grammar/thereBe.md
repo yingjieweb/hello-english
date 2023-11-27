@@ -1,21 +1,52 @@
 # There be
 
-There be: There + be + Noun
+There be: There + (is/are) + Noun Phrase
 
-### 🚩 Structure & Example
+### 🎈 Structure
 
-> 🎈 There + (is/are) + Noun
->
-> 🌰 There is a dog.
->
-> 🌰 There are two apples on the table.
+- There + (is/are) + Noun Phrase
+  > There is a dog.
+  >
+  > There are two apples on the table.
 
-### 🚩 Conclusion
+### 🚩 Summary
 
-If the sentence wants to express that there is something, the subject is the word "**there**".
+When expressing the existence of something in a sentence, the subject is the word "**there**".
 
-> 如果句子想表达的是 “**存在**某物”，那就是 **There be** 句型。
+> 若句子想要表达某物的存在，主语即为 "there"。
 
-🔴 The meaning of the "there be" sentence is to express "exist" not "have".
+🔴 The critical distinction in the "there be" sentence is to convey "existence" rather than "possession."
 
-> There be 句型的含义是表达“存在”而不是“拥有”。反例：我有一个苹果 -> I have an apple.
+> There be 句型的关键在于表达“存在”而非“拥有”。反例：我有一个苹果 -> I have an apple.
+
+### 🌰 Examples
+
+- There is a single object
+
+  > There is a cat on the roof.
+  >
+  > There is a book on the shelf.
+
+- There are multiple objects
+
+  > There are three cars in the parking lot.
+  >
+  > There are students in the classroom.
+
+- There is an abstract concept
+
+  > There is joy in helping others.
+  >
+  > There is a sense of achievement in completing a project.
+
+- There is something at a specific location
+
+  > There is a cafe around the corner.
+  >
+  > There are mountains in the distance.
+
+- There is something under certain conditions
+
+  > There is excitement in the air during the festival.
+  >
+  > There is silence in the room when everyone is focused.

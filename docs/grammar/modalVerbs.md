@@ -1,21 +1,55 @@
 # Modal Verbs
 
-can (could), may (might), shall (should), will (would), must, ought to, need, dare
+Modal verbs, including can (could), may (might), shall (should), will (would), must, ought to, need and dare, play a significant role in shaping the tone and expectation of a statement.
 
-### 🚩 Structure & Example
+### 🎈 Structure
 
-> 🎈 Subject + Modal Verb + Verb + Noun
->
-> 🌰 I can learn English well.
->
-> 🌰 He will be late.
+- Subject + Modal Verb + Verb + ...
 
-### 🚩 Conclusion
+  > I can learn English well.
+  >
+  > He will be late.
 
-The modal verbs are used to express the speaker's opinion or expectation about the situation.
+### 🚩 Summary
 
-> 情态动词被用于表达说话者的观点或对事件的期望。
+Modal verbs serve as tools to convey the speaker's perspective or anticipation regarding a given situation.
 
-You are expected to write the normal sentence at first, and then supply the modal verb.
+> 情态动词被用于表达说话者对于事态的观点或期望。
 
-> 建议先写正常的句子，然后加上情态动词。 🌰：I am happy -> I will be happy.
+An effective approach is to begin with a standard sentence and then introduce the modal verb to modify or emphasize the expression.
+
+> 建议首先写出标准句子，然后添加情态动词。 🌰：I am happy -> I will be happy.
+
+### 🌰 Examples
+
+- The students study hard.
+
+  > The students can study hard.
+
+- She is going to the party.
+
+  > She may go to the party.
+
+- He is helpful.
+
+  > He should be helpful.
+
+- They are playing in the park.
+
+  > They will play in the park.
+
+- You have to finish the assignment.
+
+  > You must finish the assignment.
+
+- You should exercise regularly.
+
+  > You ought to exercise regularly.
+
+- She can speak French fluently.
+
+  > She needs to speak French fluently.
+
+- Dare to dream big.
+
+  > Dare to dream big.
