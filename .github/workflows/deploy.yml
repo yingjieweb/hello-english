@@ -12,6 +12,10 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
+      
+      - name: Set base for GitHub Pages
+        run: |
+          sed -i "s#base: /#base: '/hello-english/'#" docs/.vitepress/config.js
 
       - name: Set up Node.js 18
         uses: actions/setup-node@v2
