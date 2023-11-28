@@ -18,7 +18,7 @@ jobs:
           sed -i "s#base: /#base: '/hello-english/'#" docs/.vitepress/config.js
           echo "Before sed:"
           cat docs/.vitepress/config.js
-          sed -i -e "s%base: /%base: '/hello-english/'%" docs/.vitepress/config.js
+          sed -i "s%base: /%base: '/hello-english/'%" docs/.vitepress/config.js
           echo "After sed:"
           cat docs/.vitepress/config.js
 
