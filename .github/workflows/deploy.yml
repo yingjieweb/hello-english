@@ -16,9 +16,11 @@ jobs:
       - name: Set base for GitHub Pages
         run: |
           sed -i "s#base: /#base: '/hello-english/'#" docs/.vitepress/config.js
-
-      - name: Display config.js content after
-        run: cat docs/.vitepress/config.js
+          echo "Before sed:"
+          cat docs/.vitepress/config.js
+          sed -i -e "s%base: /%base: '/hello-english/'%" docs/.vitepress/config.js
+          echo "After sed:"
+          cat docs/.vitepress/config.js
 
       - name: Set up Node.js 18
         uses: actions/setup-node@v2
