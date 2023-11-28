@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,Q as a}from"./chunks/framework.e7363dcb.js";const m=JSON.parse('{"title":"SVO(主谓宾)","description":"","frontmatter":{},"headers":[],"relativePath":"grammar/svo.md","filePath":"grammar/svo.md"}'),r={name:"grammar/svo.md"},i=a("",12),l=[i];function c(n,p,s,u,h,b){return t(),o("div",null,l)}const S=e(r,[["render",c]]);export{m as __pageData,S as default};
