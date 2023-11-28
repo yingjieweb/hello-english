@@ -5,7 +5,7 @@ module.exports = {
   title: "Hello English",
   description: "A repository for recording English knowledge.",
   head: [["link", { rel: "icon", href: "/images/favicon.ico" }]],
-  base: "/hello-english/",
+  base: "/", // 1.Pages: /hello-english/ 2.Vercel: /
   themeConfig: {
     home: "/",
     logo: "/images/logo.png",
@@ -31,6 +31,11 @@ module.exports = {
           { text: "There be", link: "/grammar/thereBe" },
           { text: "Modal Verbs(情态动词)", link: "/grammar/modalVerbs" },
           { text: "Spoken Verbs(口语动词)", link: "/grammar/spokenVerbs" },
+          { text: "SOC/SPC(主宾表从句)", link: "/grammar/soc&spc" },
+          {
+            text: "Direct Questions(直接疑问句)",
+            link: "/grammar/directQuestions",
+          },
         ],
       },
     ],
