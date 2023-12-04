@@ -31,7 +31,7 @@ module.exports = {
           { text: "There be", link: "/grammar/thereBe" },
           { text: "Modal Verbs(情态动词)", link: "/grammar/modalVerbs" },
           { text: "Spoken Verbs(口语动词)", link: "/grammar/spokenVerbs" },
-          { text: "SOC/SPC(主宾表从句)", link: "/grammar/soc&spc" },
+          { text: "S/O/P-C(主宾表从句)", link: "/grammar/sopc" },
           {
             text: "Direct Questions(直接疑问句)",
             link: "/grammar/directQuestions",
