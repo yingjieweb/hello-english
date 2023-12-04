@@ -38,6 +38,11 @@ module.exports = {
           },
         ],
       },
+      {
+        text: "Email 📧",
+        collapsed: false,
+        items: [{ text: "introduction", link: "/email/introduction" }],
+      },
     ],
     footer: {
       message: `Made with ❤️ by 
