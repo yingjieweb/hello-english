@@ -23,7 +23,7 @@ module.exports = {
         link: "/introduction/",
       },
       {
-        text: "Grammer",
+        text: "Grammer 📖",
         collapsed: false,
         items: [
           { text: "SVP(主系表)", link: "/grammar/svp" },
