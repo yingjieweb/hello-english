@@ -41,7 +41,10 @@ module.exports = {
       {
         text: "Email 📧",
         collapsed: false,
-        items: [{ text: "introduction", link: "/email/introduction" }],
+        items: [
+          { text: "introduction", link: "/email/introduction" },
+          { text: "opening", link: "/email/opening" },
+        ],
       },
     ],
     footer: {
