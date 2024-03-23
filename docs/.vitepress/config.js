@@ -14,7 +14,7 @@ module.exports = {
       { icon: "github", link: "https://github.com/yingjieweb/hello-english" },
       {
         icon: { svg: juejin },
-        link: "https://juejin.cn/user/2576910988098888",
+        link: "https://juejin.cn/user/2576910988098888/posts",
       },
     ],
     sidebar: [
