@@ -1,4 +1,4 @@
-# Email opening
+# Email Opening
 
 Some kinds of Email openings can give you some aspiration. 
 
