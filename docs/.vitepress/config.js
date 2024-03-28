@@ -43,6 +43,7 @@ module.exports = {
         collapsed: false,
         items: [
           { text: "introduction", link: "/email/introduction" },
+          { text: "construction", link: "/email/construction" },
           { text: "opening", link: "/email/opening" },
         ],
       },
