@@ -46,6 +46,7 @@ module.exports = {
           { text: "construction", link: "/email/construction" },
           { text: "opening", link: "/email/opening" },
           { text: "ending", link: "/email/ending" },
+          { text: "sign off", link: "/email/signOff" },
         ],
       },
     ],
