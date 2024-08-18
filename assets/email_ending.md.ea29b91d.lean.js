@@ -1,0 +1,1 @@
+import{_ as i,o,c as e,Q as t}from"./chunks/framework.de79a97f.js";const _=JSON.parse('{"title":"Email ending","description":"","frontmatter":{},"headers":[],"relativePath":"email/ending.md","filePath":"email/ending.md"}'),n={name:"email/ending.md"},a=t("",2),l=[a];function r(s,d,c,u,h,m){return o(),e("div",null,l)}const g=i(n,[["render",r]]);export{_ as __pageData,g as default};
