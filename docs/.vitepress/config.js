@@ -55,6 +55,7 @@ module.exports = {
         items: [
           { text: "introduction", link: "/coverLetter/introduction" },
           { text: "rules", link: "/coverLetter/rules" },
+          { text: "structure", link: "/coverLetter/structure" },
         ],
       },
     ],
