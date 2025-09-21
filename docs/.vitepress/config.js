@@ -52,7 +52,10 @@ module.exports = {
       {
         text: "CoverLetter 📄",
         collapsed: false,
-        items: [{ text: "introduction", link: "/coverLetter/introduction" }],
+        items: [
+          { text: "introduction", link: "/coverLetter/introduction" },
+          { text: "rules", link: "/coverLetter/rules" },
+        ],
       },
     ],
     footer: {
