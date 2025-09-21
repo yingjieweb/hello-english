@@ -49,6 +49,11 @@ module.exports = {
           { text: "sign off", link: "/email/signOff" },
         ],
       },
+      {
+        text: "CoverLetter 📄",
+        collapsed: false,
+        items: [{ text: "introduction", link: "/coverLetter/introduction" }],
+      },
     ],
     footer: {
       message: `Made with ❤️ by 
